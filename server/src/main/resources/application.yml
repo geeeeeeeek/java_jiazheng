@@ -65,20 +65,3 @@ spring:
       location: ${BASE_LOCATION}\server\upload\tmp # 临时上传目录
       enabled: true
 
-
-
-  # 静态资源路径
-  mvc:
-    static-path-pattern: /staticfiles/**  # 别名
-  web:
-    resources:
-#      static-locations: classpath:/static
-      static-locations: file:${BASE_LOCATION}\server\upload
-
-
-File:
-  uploadPath: ${BASE_LOCATION}\server\upload
-
-mybatis:
-  configuration:
-    map-underscore-to-camel-case: true
