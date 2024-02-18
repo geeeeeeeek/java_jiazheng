@@ -16,9 +16,9 @@
 
 ### 演示地址
 
-前台地址：  
+前台地址：  http://jiazheng.gitapp.cn
 
-后台地址： 
+后台地址： http://jiazheng.gitapp.cn/admin
 
 后台管理帐号：
 
@@ -64,18 +64,7 @@ npm install
 ```
 npm run dev
 ```
-
-
-### 界面预览
-
-首页
-
-![]()
-
-
-后台页面
-
-![]()
+ 
 
 
 
@@ -85,7 +74,10 @@ npm run dev
 - 手机号绑定功能
 - 粉丝关注功能
 
-### 问题咨询
+### 开发文档
+[点击进入](doc.md)
+
+### 付费咨询
 
 微信：lengqin1024
 
