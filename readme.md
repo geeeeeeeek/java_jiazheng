@@ -46,7 +46,7 @@ CREATE DATABASE IF NOT EXISTS xxx DEFAULT CHARSET utf8 COLLATE utf8_general_ci
 
 ```
 mysql> use xxx;
-mysql> source D:/xxx/xxx/shop.sql;
+mysql> source D:/xxx/xxx/xxx.sql;
 ```
 
 (5) 启动后端服务：点击IDEA顶部run按钮
